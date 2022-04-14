@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: calibri;
+}
+#img-caption {
+  width: 400px;
+}
+#image {
+  /* margin: auto; */
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
